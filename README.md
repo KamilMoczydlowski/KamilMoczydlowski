@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KamilMoczydlowski.
 - 👀 I’m interested in learning something new.
-- 🌱 I’m currently learning how to become Front-End Engineer.
+- 🌱 I’m currently learning how to become Front-End Developer.
 - 💞️ I’m looking to collaborate on my future projects.
 - 📫 How to reach me: kamil.moczydlowski@icloud.com
 
