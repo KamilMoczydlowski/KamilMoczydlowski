@@ -31,14 +31,6 @@
 
 I am self-taught Frontend Developer with great ideas and plan to become Full Stack Developer.
 
-- :telescope: I'm currently looking for job as Frontend Developer 
-
-- :cowboy_hat_face: It feels great when code is working as intended
-
-- :zap: In my freetime I'm searching for websites design inspirations
-
-- :mailbox: How to reach me: info@kmoczydlowski.pl
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
